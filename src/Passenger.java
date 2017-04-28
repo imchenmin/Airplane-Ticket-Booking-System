@@ -1,4 +1,8 @@
-
-public class Passenger {
-
+/**
+ * 
+ * @author zbcmb
+ *
+ */
+public class Passenger extends Users{
+	
 }

@@ -1,5 +1,9 @@
 我们的代码将在github 上托管，为了朋友们能方便的协作。
 
+# 开发基本思路
+1.根据实体关系建立类关系。先处理类之间的方法。
+2.在插入权限。和引入的
+---
 接下来我将介绍如何用Eclipse连接github.com
 1. 到GitHub.com注册一个账号。
 2. 打开Eclipse,内置了连接github的插件。但我们需要升级。阅读这篇文章：http://jingyan.baidu.com/article/64d05a0262f013de55f73bcc.html

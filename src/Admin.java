@@ -4,10 +4,9 @@
  * @author zbcmb	作者名可以更改。
  *
  */
-public class Admin {
-	//定义属性
-	String UserName;
-	String passWord;
+public class Admin extends Users{
+	//定义独特属性
+
 	//初始化构造方法。
 	public Admin(){
 		//admin 对象被创建出来时要做什么？
